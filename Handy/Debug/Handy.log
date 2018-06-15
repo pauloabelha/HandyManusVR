@@ -1,0 +1,4 @@
+﻿  stdafx.cpp
+  Handy.cpp
+c:\users\administrator\source\repos\handy\handy\handy.cpp(70): warning C4101: 'dongle_ids': unreferenced local variable
+  Handy.vcxproj -> C:\Users\Administrator\source\repos\Handy\Debug\Handy.exe
